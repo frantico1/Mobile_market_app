@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918848001528",
+    "project_id": "market-barkod",
+    "storage_bucket": "market-barkod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918848001528:android:581c09fe1d850fe847b20d",
+        "android_client_info": {
+          "package_name": "com.barkod_market_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918848001528-u74tmvun3bcsoa1bdfem12isbhhaua1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsUArl7KoyK08LUoz0Eh5FrTc6uJ9l8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918848001528-u74tmvun3bcsoa1bdfem12isbhhaua1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
